@@ -1,3 +1,4 @@
+<div>
 <svg width="370px" height="70px" viewBox="0 0 370 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>画板</title>
@@ -8,6 +9,7 @@
         </text>
     </g>
 </svg>
+</div>
 
 Convert json to golang, typescript, python3 type declaration.
 ## Usage
