@@ -1,15 +1,4 @@
-<div>
-<svg width="370px" height="70px" viewBox="0 0 370 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>画板</title>
-    <desc>Created with Sketch.</desc>
-    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RobotoMonoForPowerline-Thin, Roboto Mono Thin for Powerline" font-size="50" font-style="condensed" font-weight="300">
-        <text id="JSON-To-Type" fill="#666666">
-            <tspan x="4" y="52">JSON To Type</tspan>
-        </text>
-    </g>
-</svg>
-</div>
+![icon](icon.svg)
 
 Convert json to golang, typescript, python3 type declaration.
 ## Usage
